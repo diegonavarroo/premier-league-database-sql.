@@ -10,7 +10,7 @@ This project consists of the design and implementation of a relational database 
 - `/scripts/01_DDL/`: Scripts for creating tables and defining data integrity (Primary Keys, Foreign Keys, Checks).
 - `/scripts/02_DML/`: Scripts for inserting, updating, and deleting data.
 - `/scripts/03_Consultas/`: Standard queries and advanced `JOIN` operations.
-- `/scripts/04_Objetos_Avanzados/`: Advanced database concepts like Views, Indexes, CTEs, and Stored Procedures.
+- `/scripts/04_Objetos_Avanzados/`: Advanced database concepts such as Views, Indexes, CTEs, and Stored Procedures.
 
 ## How to run
 To replicate this database locally:
