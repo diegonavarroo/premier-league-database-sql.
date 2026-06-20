@@ -1,7 +1,7 @@
 # ⚽ Premier League Database Project
 
 ## Project Overview
-This project consists of the design and implementation of a relational database using **PostgreSQL** to manage data for a soccer league (based on the English Premier League). It includes information about teams, players, matches, stadiums, injuries, and coach statistics.
+This project consists of the design and implementation of a relational database using **PostgreSQL** to manage data based on the English Premier League. It includes information about teams, players, matches, stadiums, injuries, and coach statistics.
 
 **Technologies used:** PostgreSQL, SQL (DDL, DML, TCL), pgAdmin, Entity-Relationship Modeling.
 
