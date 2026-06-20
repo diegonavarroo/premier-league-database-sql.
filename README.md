@@ -6,9 +6,9 @@ This project consists of the design and implementation of a relational database 
 **Technologies used:** PostgreSQL, SQL (DDL, DML, TCL), pgAdmin, Entity-Relationship Modeling.
 
 ##  Repository Structure
-- `/docs/`: Contains the Entity-Relationship (ER) / UML Diagram.
+- `/docs/`: UML Diagram.
 - `/scripts/01_DDL/`: Scripts for creating tables and defining data integrity (Primary Keys, Foreign Keys, Checks).
-- `/scripts/02_DML/`: Scripts for inserting, updating, and deleting dummy data.
+- `/scripts/02_DML/`: Scripts for inserting, updating, and deleting data.
 - `/scripts/03_Consultas/`: Standard queries and advanced `JOIN` operations.
 - `/scripts/04_Objetos_Avanzados/`: Advanced database concepts like Views, Indexes, CTEs, and Stored Procedures.
 
@@ -26,4 +26,4 @@ To replicate this database locally:
 - **Advanced SQL:** Implemented Common Table Expressions (CTEs), multi-table JOINs, and aggregation functions to analyze player performance and stadium attendance.
 
 ---
-*Created by [Tu Nombre] and [Nombre de tu compañero] as part of the Database Systems coursework.*
+*Created by Diego Navarro Gomez and Diego Antonio Rodriguez Sanchez as part of the Database Systems coursework.*
